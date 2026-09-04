@@ -9,8 +9,7 @@ A personal library manager built in Flutter — search books via the Google Book
 ---
 
 ## Demo
-
-*(embed screen recording / GIF here)*
+![Link on youtube](https://youtube.com/shorts/jMDRAQ6Pi5M?feature=share)
 
 ---
 
